@@ -1,5 +1,7 @@
 # Immutable collections for JavaScript
 
+[简体中文](README.md) | English
+
 [![Build Status](https://github.com/immutable-js/immutable-js/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/immutable-js/immutable-js/actions/workflows/ci.yml?query=branch%3Amain) [Chat on slack](https://immutable-js.slack.com)
 
 [Read the docs](https://immutable-js.com/docs/) and eat your vegetables.

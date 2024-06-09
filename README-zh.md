@@ -1,5 +1,7 @@
 Immutable collections for JavaScript
 
+简体中文 | [English](README-en.md)
+
 不可变集合用于 JavaScript
 
 [![Build Status](https://github.com/immutable-js/immutable-js/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/immutable-js/immutable-js/actions/workflows/ci.yml?query=branch%3Amain) [Chat on slack](https://immutable-js.slack.com)
